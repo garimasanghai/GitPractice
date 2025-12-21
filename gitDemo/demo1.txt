@@ -1,13 +1,17 @@
+ Note: (never commit .env file)
+
 mkdir <- to make a folder
 ls <- to see whatever is in the folder
 touch <- to create a file
 .txt / .py <- extension u need to add at th end of the file
 git init <- to initialize a folder as a git repository
-cd .. < - to get outside
-cd ./foldername <- to get inside a folder (./ < -- used for absolute path)
-cd foldername <-- (for relative path ./ isn't required)
+cd .. <- to get outside
+cd ./foldername <- to get inside a folder (./ <--- used for absolute path)
+cd foldername <- (for relative path ./ isn't required)
 .gitignore <- to specify & list down which files git ignores
 rm ./foldername <- remove the folder
 rm ./fileName.ext <-remove the file
 git add filename.ext <- add the specific files in the staging area
 git add . <- add all the files in the staging area (. means the current folder)
+git status <-status of the git files which git is keeping tabs
+git commit -m "added" <- commit the code into the local repository with a heading
