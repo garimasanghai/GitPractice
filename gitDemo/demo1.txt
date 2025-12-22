@@ -23,3 +23,4 @@ git branch -M main <- where M makes any branch the default branch, in this case 
 git branch branchName <- to create a new branch from the old branch
 git checkout branchName <- to go to the specified branch
 Note: This is the main branch
+Note: This is the feature1 branch
