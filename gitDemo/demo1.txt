@@ -22,3 +22,4 @@ git branch <- check how many branches r there, their names, & the current branch
 git branch -M main <- where M makes any branch the default branch, in this case main is the name of the branch which we r making default
 git branch branchName <- to create a new branch from the old branch
 git checkout branchName <- to go to the specified branch
+Note: This is the main branch
