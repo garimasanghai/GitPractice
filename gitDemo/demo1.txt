@@ -24,3 +24,4 @@ git branch branchName <- to create a new branch from the old branch
 git checkout branchName <- to go to the specified branch
 Note: This is the main branch
 Note: This is the feature1 branch
+This line was added from vsCode
