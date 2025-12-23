@@ -1,7 +1,7 @@
  Note: 
  a. (never commit .env file)
  b. Anything u write in the vsCide is the local repository
- c. Anytging u push to the gitHub or online is the remote repository
+ c. Anything u push to the gitHub or online is the remote repository
 
 mkdir <- to make a folder
 ls <- to see whatever is in the folder
@@ -24,5 +24,6 @@ git branch -M main <- where M makes any branch the default branch, in this case 
 git branch branchName <- to create a new branch from the old branch
 git checkout branchName <- to go to the specified branch
 Note: This is the feature1 branch
-git stash <- keeping it for later use
+git stash <- keeping the changes for later use
+git stash pop <- to get back the stashed changes. [takes out the changes out of the stash rack]
 
